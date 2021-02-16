@@ -1,4 +1,4 @@
-# Rules
+# Rules:-
 
 ## 1.The game has two players, playing in rounds.
 
