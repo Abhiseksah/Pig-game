@@ -9,3 +9,5 @@
 ## 4.the player can choose 'hold' , which means that his round score gets added to his global score .After that, it;s the nexxt player's turn.
 
 ## 5.the first player to reach 100 points on global score wins the game.
+
+# starting...
