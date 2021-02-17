@@ -10,4 +10,3 @@
 
 ## 5.the first player to reach 100 points on global score wins the game.
 
-# starting...
